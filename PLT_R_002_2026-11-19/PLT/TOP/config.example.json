@@ -1,0 +1,171 @@
+{
+  "image": "input.png",
+  "output": "commands.txt",
+  "summary": "summary.json",
+  "plt": "image.plt.json",
+  "initial_background_block": null,
+  "brightness_scale": "auto",
+  "brightness_search": {
+    "min_scale": 0.0,
+    "max_scale": 4.0,
+    "steps": 1025
+  },
+  "palette": [
+    {
+      "block_id": "minecraft:white_wool",
+      "rgb": [
+        234,
+        236,
+        237
+      ]
+    },
+    {
+      "block_id": "minecraft:orange_wool",
+      "rgb": [
+        241,
+        118,
+        20
+      ]
+    },
+    {
+      "block_id": "minecraft:magenta_wool",
+      "rgb": [
+        190,
+        69,
+        180
+      ]
+    },
+    {
+      "block_id": "minecraft:light_blue_wool",
+      "rgb": [
+        58,
+        175,
+        217
+      ]
+    },
+    {
+      "block_id": "minecraft:yellow_wool",
+      "rgb": [
+        249,
+        198,
+        40
+      ]
+    },
+    {
+      "block_id": "minecraft:lime_wool",
+      "rgb": [
+        112,
+        185,
+        26
+      ]
+    },
+    {
+      "block_id": "minecraft:pink_wool",
+      "rgb": [
+        238,
+        141,
+        172
+      ]
+    },
+    {
+      "block_id": "minecraft:gray_wool",
+      "rgb": [
+        63,
+        68,
+        72
+      ]
+    },
+    {
+      "block_id": "minecraft:light_gray_wool",
+      "rgb": [
+        142,
+        142,
+        135
+      ]
+    },
+    {
+      "block_id": "minecraft:cyan_wool",
+      "rgb": [
+        21,
+        138,
+        145
+      ]
+    },
+    {
+      "block_id": "minecraft:purple_wool",
+      "rgb": [
+        122,
+        42,
+        173
+      ]
+    },
+    {
+      "block_id": "minecraft:blue_wool",
+      "rgb": [
+        53,
+        57,
+        157
+      ]
+    },
+    {
+      "block_id": "minecraft:brown_wool",
+      "rgb": [
+        114,
+        72,
+        41
+      ]
+    },
+    {
+      "block_id": "minecraft:green_wool",
+      "rgb": [
+        85,
+        110,
+        28
+      ]
+    },
+    {
+      "block_id": "minecraft:red_wool",
+      "rgb": [
+        161,
+        39,
+        35
+      ]
+    },
+    {
+      "block_id": "minecraft:black_wool",
+      "rgb": [
+        21,
+        21,
+        26
+      ]
+    }
+  ],
+  "lambda": 1.0,
+  "costs": {
+    "fill": 1.0,
+    "setb": 0.2
+  },
+  "mapping": {
+    "origin": [
+      0,
+      64,
+      0
+    ],
+    "x_step": [
+      1,
+      0,
+      0
+    ],
+    "y_step": [
+      0,
+      0,
+      1
+    ]
+  },
+  "limits": {
+    "max_pixels": 1048576,
+    "max_fill_blocks": 32768,
+    "max_commands": 65536,
+    "max_world_coord": 30000000
+  }
+}

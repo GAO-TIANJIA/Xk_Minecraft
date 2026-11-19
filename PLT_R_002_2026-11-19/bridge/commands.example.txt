@@ -1,0 +1,5 @@
+# One instruction per line; coordinates are absolute and FILL endpoints are inclusive.
+SETB 0 64 0 minecraft:stone
+FILL 1 64 1, 8 64 8 minecraft:stone
+SETB 9 64 1 minecraft:oak_log[axis=y]
+FILL 10 64 1, 12 64 3 minecraft:oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]

@@ -1,0 +1,4 @@
+-r requirements.txt
+cupy-cuda13x>=14.2,<15
+nvidia-cuda-runtime>=13.2,<14
+nvidia-cuda-nvrtc>=13.2,<14
